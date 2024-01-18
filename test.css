@@ -1,0 +1,37 @@
+section{
+    text-align: center;
+    justify-content: center;    
+    border-color: black;
+    align-items: center;
+}
+
+div{
+    height: 81vh;
+    width: 40vb;
+    border: 2px solid green;
+    background-color: aqua;
+    display: inline-block;    
+}
+
+p{
+    font-size: 12px;
+}
+
+.one{
+    height: 30vh;
+    width: 40vb;
+    border-radius : 10%;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+.two{
+    border-radius: 50%;
+    height: 15vh;    
+}
+
+.three{
+    height: 30px;
+    width: 200px;
+    background-color: blueviolet;
+}

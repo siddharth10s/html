@@ -1,0 +1,39 @@
+/* h1{
+    color: blue;
+} */
+
+
+/* /* for id */
+/* #one{
+    color: blueviolet;
+} */ 
+
+
+/* for class */
+.two{
+    color: aquamarine;
+}
+
+input[type="text"]{
+    background-color: blue;
+}
+
+/* poori link select krne ke liye */
+/* a[href="https://google.com"]{
+    background-color: chartreuse;
+} */
+
+/* starting ke element select krne ke liye */
+/* a[href^="https"]{
+    background-color: brown;
+} */
+
+/* end ke element select krne ke liye */
+/* a[href$=".com"]{
+    background-color: blueviolet;
+} */
+
+/* bich ke kahi bhi element select krne ke liye */
+a[href*="YES"]{
+    background-color: darkgreen;
+}

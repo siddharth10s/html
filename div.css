@@ -1,0 +1,36 @@
+ /* div{
+    width: 20vw;
+    height: 20vh;
+    background-color: rgb(111, 255, 0);
+} */
+/* div:hover{
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+div{
+    border: 6x solid green;
+} */
+
+
+li{
+    font-size: 2rem;
+}
+
+/* li{
+    font-size: 2em;
+} */
+
+div{
+    border: 2px solid green;
+    padding: 10px ;
+    background-color: orange;
+    height: 40px;
+}
+
+span{
+    border: 2px solid red;
+    background-color: pink;
+    /* visibility: hidden; */
+    display: none;
+
+}
